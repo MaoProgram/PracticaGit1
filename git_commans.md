@@ -18,4 +18,4 @@ git commit: Se utiliza para confirmar los cambios en el repositorio.
 
 git push: Se utiliza  para enviar tus commits locales a un repositorio remoto.
 
-git merge: Se utiliza para fusionar cambios de una rama a otra.
+git merge: Se utiliza  para fusionar cambios de una rama a otra.
