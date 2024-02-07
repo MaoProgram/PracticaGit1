@@ -16,6 +16,6 @@ git add: Se utiliza para agregar cambios al área de preparación (también cono
 
 git commit: Se utiliza para confirmar los cambios en el repositorio.
 
-git push: Se utiliza para enviar tus commits locales a un repositorio remoto.
+git push: Se utiliza  para enviar tus commits locales a un repositorio remoto.
 
 git merge: Se utiliza para fusionar cambios de una rama a otra.
